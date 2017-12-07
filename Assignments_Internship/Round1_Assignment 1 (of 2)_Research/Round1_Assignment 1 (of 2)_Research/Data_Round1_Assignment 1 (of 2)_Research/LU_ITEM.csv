@@ -1,0 +1,361 @@
+ITEM_ID,ITEM_NAME,ITEM_LONG_DESC,DISC_CD,UNIT_PRICE,UNIT_COST,SUBCAT_ID,SUPPLIER_ID,BRAND_ID
+90,Self-Management and Efficiency,Self-Management and Efficiency: Large Corporations in Yugoslavia,12090,25,19,12,109,174
+91,Harman Kardon Digital Surround Sound Receiver,Digital Surround Sound Receiver,21091,1000,739,21,202,203
+92,Harman Kardon AM/FM Stereo Receiver,HK3370 AM/FM Stereo Receiver,21092,500,373,21,202,203
+93,Harman Kardon Dolby Digital Receiver,AVR45 Dolby Digital Receiver,21093,700,518,21,202,203
+94,GPX Portable CD Player with Bass Boost,Portable CD Player with Bass Boost,21094,30,22,21,203,202
+95,GPX Portable CD Player with Car Kit,Portable Compact Disc Player with Car Kit,21095,50,38,21,203,202
+96,GPX CD AM/FM Cassette Recorder Karaoke Machine,CD AM/FM Cassette Recorder Karaoke Machine,21096,100,71,21,203,202
+97,Panasonic Portable CD Player,SL-S360 Portable CD Player,21097,80,59,21,203,210
+98,Pioneer 25-Disc Changer with Remote Control,25-Disc Changer with Remote Control,21098,130,92,21,203,211
+99,"Pioneer CD Recordable, Digital Synchro Recording","CD Recordable, Digital Synchro Recording",21099,500,370,21,203,211
+100,Pioneer Dolby Pro Logic Receiver,VSXD488 Dolby Pro Logic Receiver,21100,350,246,21,203,211
+101,RCA CD Changer,RP8065 CD Changer,21101,90,67,21,203,213
+102,Sony Discman,Discman D-E441 with ESP2,21102,80,59,21,203,215
+103,Sony Boombox with Digital Tuner,Boombox with Digital Tuner,21103,130,97,21,203,215
+104,Sony Digital MiniDisc,Digital MiniDisc/CD/AM/FM Stereo System,21104,600,445,21,203,215
+105,Sony 100-Watt Receiver,STR-DE835 100-Watt Receiver,21105,400,288,21,203,215
+106,Hitachi Hi8 Camcorder,650A Hi8 Camcorder,22106,400,286,22,201,205
+107,Hitachi DVD Camcorder,"DVD Camcorder with 3.5"" Color LCD and Photo Mode",22107,600,449,22,201,205
+108,Minolta Freedom Zoom Supreme EX Camera,Freedom Zoom Supreme EX Camera,22108,230,162,22,201,207
+109,Minolta Maxxum Camera,Maxxum HTsi Plus SLR Camera,22109,400,282,22,201,207
+110,Minolta Freedom Zoom Explorer Camera,Freedom Zoom Explorer Camera,22110,180,133,22,201,207
+111,Minolta Vectis Beam Camera,Vectis 300 Beam Camera,22111,300,224,22,201,207
+1,The Art of Bev Doolittle,The Art of Bev Doolittle,11001,46,32,11,101,127
+2,Art As Experience,Art As Experience,11002,11,8,11,101,146
+3,The Painted Word,The Painted Word,11003,6,5,11,101,180
+4,Hirschfeld on Line,Hirschfeld on Line,11004,35,25,11,102,101
+5,Adirondack Style,Adirondack Style,11005,27,19,11,102,105
+6,"Architecture : Form, Space, & Order","Architecture : Form, Space, & Order",11006,28,20,11,102,131
+7,50 Favorite Rooms,50 Favorite Rooms,11007,18,13,11,102,132
+8,500 Best Vacation Home Plans,500 Best Vacation Home Plans,11008,8,6,11,102,139
+9,Blue & White Living,Blue & White Living,11009,11,8,11,102,172
+10,Ways of Seeing,Ways of Seeing,11010,11,8,11,106,145
+11,"Gonzo, the Art","Gonzo, the Art",11011,28,21,11,106,167
+12,Cabin Fever : Rustic Style Comes Home,Cabin Fever : Rustic Style Comes Home,11012,8,6,11,107,166
+13,American Bungalow Style,American Bungalow Style,11013,28,20,11,107,169
+14,Building With Stone,Building With Stone,11014,15,11,11,109,115
+15,Voyaging Under Power,Voyaging Under Power,11015,9,7,11,109,170
+16,Working With Emotional Intelligence,Working With Emotional Intelligence,12016,19,14,12,101,119
+17,Attention to Detail,Attention to Detail,12017,11,8,12,102,117
+18,The 48 Laws of Power,The 48 Laws of Power,12018,18,13,12,102,150
+19,Don't Step in the Leadership,Don't Step in the Leadership,12019,8,6,12,102,171
+20,Topgrading,Topgrading,12020,19,13,12,105,112
+21,Career Intelligence,Career Intelligence,12021,13,10,12,107,107
+22,Cubicle Warfare,Cubicle Warfare,12022,13,10,12,107,110
+23,The Wisdom of Teams,The Wisdom of Teams,12023,13,9,12,107,148
+24,The Power to Get in,The Power to Get in,12024,12,9,12,107,157
+25,Don't Sweat the Small Stuff,Don't Sweat the Small Stuff,12025,10,7,12,107,168
+26,Jump Start Your Brain,Jump Start Your Brain,12026,12,8,12,109,125
+27,Smart Choices,Smart Choices,12027,16,12,12,109,147
+28,Day Job,Day Job,12028,18,13,12,109,149
+29,The Joy of Work,The Joy of Work,12029,16,12,12,109,171
+30,Jobshift,Jobshift,12030,12,9,12,109,183
+31,The Prince,The Prince,13031,4,3,13,101,162
+32,The Fountainhead,The Fountainhead,13032,8,6,13,104,106
+33,The Old Man and the Sea,The Old Man and the Sea,13033,8,6,13,104,129
+34,Lord of the Flies,Lord of the Flies,13034,6,4,13,104,184
+35,Atlas Shrugged,Atlas Shrugged,13035,8,6,13,105,106
+36,The Catcher in the Rye,The Catcher in the Rye,13036,5,4,13,105,140
+37,Brave New World,Brave New World,13037,8,6,13,106,102
+38,The Weight of Water,The Weight of Water,13038,12,9,13,106,104
+39,Great Gatsby,Great Gatsby,13039,9,7,13,106,130
+40,1984,1984,13040,5,4,13,106,135
+41,Catch-22,Catch-22,13041,9,7,13,106,151
+42,The Thin Red Line,The Thin Red Line,13042,10,8,13,108,142
+43,Ulysses,Ulysses,13043,14,10,13,108,143
+44,Lolita,Lolita,13044,11,8,13,108,182
+45,To Kill a Mockingbird,To Kill a Mockingbird,13045,5,4,13,109,137
+46,Test Your Baseball IQ,Test Your Baseball IQ,14046,3,3,14,104,123
+47,Art of Getting Even,Art of Getting Even,14047,6,5,14,104,133
+48,Complete Course in Magic,Complete Course in Magic,14048,23,17,14,104,156
+49,40 Most Wanted Cats,40 Most Wanted Cats,14049,10,8,14,104,159
+50,The Rules for Cats,The Rules for Cats,14050,8,6,14,104,175
+51,Test Your History I.Q.,Test Your History I.Q.,14051,3,3,14,104,177
+52,Great Comedians Talk about Comedy,Great Comedians Talk about Comedy,14052,8,6,14,104,181
+53,The Complete Prose of Woody Allen,The Complete Prose of Woody Allen,14053,10,8,14,104,185
+54,Test Your Own IQ Again,Test Your Own IQ Again,14054,5,4,14,105,163
+55,Games for the Superintelligent,Games for the Superintelligent,14055,8,6,14,108,141
+56,Most of Andy Rooney,Most of Andy Rooney,14056,15,11,14,109,103
+57,Guide to Life,Guide to Life,14057,10,8,14,109,120
+58,Mensa Lateral Thinking,Mensa Lateral Thinking,14058,8,6,14,109,121
+59,Completely Mad,Completely Mad,14059,15,11,14,109,155
+60,How to Live with a Neurotic Dog,How to Live with a Neurotic Dog,14060,8,6,14,109,173
+61,Nanotechnology,Nanotechnology,15061,15,11,15,103,108
+62,Foundation Analysis and Design,Foundation Analysis and Design,15062,81,60,15,103,111
+63,Handbook of Hydraulics,Handbook of Hydraulics,15063,70,50,15,103,113
+64,Modern Recording Techniques,Modern Recording Techniques,15064,30,22,15,103,122
+65,Digital Filters,Digital Filters,15065,11,8,15,103,136
+66,Being Digital,Being Digital,15066,12,9,15,103,160
+67,Manufacturing Planning and Control Systems,Manufacturing Planning and Control Systems,15067,46,34,15,103,178
+68,Roark's Formulas for Stress and Strain,Roark's Formulas for Stress and Strain,15068,80,58,15,103,186
+69,Envisioning Information,Envisioning Information,15069,34,25,15,105,126
+70,Design With Pic Microcontrollers,Design With Pic Microcontrollers,15070,48,35,15,105,164
+71,Engines of Creation,Engines of Creation,15071,12,8,15,107,128
+72,Basic Pro/Engineer in 20 Lessons,Basic Pro/Engineer in 20 Lessons,15072,52,38,15,107,153
+73,The Evolution of Useful Things,The Evolution of Useful Things,15073,11,8,15,108,138
+74,To Engineer Is Human,To Engineer Is Human,15074,11,8,15,108,138
+75,Rescuing Prometheus,Rescuing Prometheus,15075,20,15,15,108,179
+76,Nutrition 101,Nutrition 101,16076,18,14,16,101,158
+77,Pain Free,Pain Free,16077,17,12,16,101,165
+78,Body for Life,Body for Life,16078,13,9,16,104,109
+79,Facercise,Facercise,16079,11,8,16,104,114
+80,Stretch Book,Stretch Book,16080,12,9,16,104,144
+81,Pilates: The Way Forward,Pilates: The Way Forward,16081,16,12,16,104,154
+82,Sciatica Relief Handbook,Sciatica Relief Handbook,16082,12,9,16,108,116
+83,The New Fit or Fat,The New Fit or Fat,16083,8,6,16,108,118
+84,When Food Is Love,When Food Is Love,16084,11,8,16,108,134
+85,Rehabilitation of Patients w/ Respiratory Disease,Rehabilitation of Patients with Respiratory Disease,16085,11,8,16,108,161
+86,Fitness for Dummies,Fitness for Dummies,16086,16,12,16,108,176
+87,"Ageless Body, Timeless Mind","Ageless Body, Timeless Mind",16087,12,8,16,109,124
+88,Why Weight?,Why Weight?,16088,11,8,16,109,134
+89,Reversing Diabetes,Reversing Diabetes,16089,12,9,16,109,152
+112,Olympus LT Zoom Compact Camera,LT Zoom 105 Compact Camera,22112,280,201,22,201,209
+113,Olympus Stylus Zoom Compact Camera,Stylus Zoom 115 QD DLX Compact Camera,22113,230,162,22,201,209
+114,Olympus Zoom Ultra Compact Camera,Zoom 75 Ultra Compact Camera,22114,280,208,22,201,209
+115,Panasonic Digital Palmcorder Camcorder,PV-DV910 Digital Palmcorder Camcorder,22115,900,674,22,201,210
+116,Sharp Hi-Fi Stereo Viewcam Camcorder,Hi-Fi Stereo Viewcam Camcorder,22116,450,318,22,201,214
+117,Sharp Hi8 Viewcam Camcorder,Hi8 Viewcam Camcorder,22117,600,426,22,201,214
+118,Sharp Internet Viewcam,MPEG-4 Internet Viewcam,22118,700,514,22,201,214
+119,Sony Handycam Digital Recorder,DCRTRV103 Handycam Digital Recorder,22119,900,640,22,201,215
+120,Sony Handycam Video Camera,CCDTR416 Handycam Video Camera,22120,400,291,22,201,215
+121,Microsoft Basic Mouse V1.0,Basic Mouse V1.0,23121,25,19,23,204,206
+122,Microsoft Natural Keyboard Elite V2.0,Natural Keyboard Elite V2.0,23122,60,44,23,204,206
+123,New Media 16 MB Compact Flash,16 MB Compact Flash,23123,50,36,23,204,208
+124,New Media 64 MB Compact Flash,64 MB Compact Flash,23124,200,148,23,204,208
+125,New Media 32 MB Compact Flash,32 MB Compact Flash,23125,100,73,23,204,208
+126,New Media 32 MB Smart Media,32 MB Smart Media,23126,100,71,23,204,208
+127,3Com 56K Cellular Modem PC Card,3CXM556 56K Cellular Modem PC Card,23127,200,141,23,208,201
+128,3Com OfficeConnect 56K LAN Modem,OfficeConnect 56K LAN Modem,23128,300,213,23,208,201
+129,3Com 10/100 CardBus,10/100 CardBus,23129,160,117,23,208,201
+130,3Com Networking Kit,Networking Kit,23130,130,92,23,208,201
+131,Hewlett Packard External Tape Drive,8 GB Hi-Performance External Tape Drive,23131,250,186,23,208,204
+132,Hewlett Packard CD-Writer Plus,8100i CD-Writer Plus,23132,280,206,23,208,204
+133,PNY 32 MB Memory Card,32 MB 168 Pin SDRAM DIMM PC-100 Memory,23133,60,44,23,208,212
+134,PNY 64 MB Memory Card,32 MB 72 pin SIMM EDO 60NS Memory,23134,69,51,23,208,212
+135,PNY 128MB Memory Card,128MB 168 Pin DIMM SDRAM PC-100 Memory,23135,150,112,23,208,212
+136,3Com Palm V Connected Organizer,Palm V Connected Organizer,24136,400,297,24,205,201
+137,3Com Palm IIIx Connected Organizer,Palm IIIx Connected Organizer,24137,330,246,24,205,201
+138,Panasonic Compact Plain Paper Fax,KX-FP121 Compact Plain Paper Fax,24138,170,123,24,205,210
+139,Panasonic Fax Machine,KX-FP101 Fax Machine,24139,130,96,24,205,210
+140,Sharp Mobilon TriPad Handheld PC,Mobilon TriPad PV-6000 Handheld PC,24140,980,727,24,205,214
+141,Sharp Copier Toner,AL100DR Drum for AL1041/AL1250,24141,220,159,24,205,214
+142,Xerox Workcentre 385,Workcentre 385,24142,500,365,24,205,216
+143,Xerox XD / XL Series Toner Cartridge,13R551 XD Series/XL Series Drum Cartridge,24143,180,130,24,205,216
+144,Xerox XE Series Toner Cartridge,13R553 XE60/XE80/XE90 Series Drum Cartridge,24144,160,113,24,205,216
+145,Hewlett Packard Color Copier,C6690A Color Copier 160,24145,604,436,24,210,204
+146,Hewlett Packard LaserJet Printer/Copier/Scanner,C7045A LaserJet 1220 Printer/Copier/Scanner,24146,650,474,24,210,204
+147,Hewlett Packard Graphic Calculator,HP48G Graphic Calculator,24147,90,67,24,210,204
+148,Hewlett Packard Financial Calculator,HP17BII Financial Calculator,24148,98,71,24,210,204
+149,Hewlett Packard OfficeJet Printer,C6687A OfficeJet R-40xi,24149,600,423,24,210,204
+150,Hewlett Packard Jornada 680 Handheld PC,Jornada 680 Handheld PC,24150,800,592,24,210,204
+151,"GPX 5"" AM/FM Portable TV","TVP7 5"" AM/FM Portable TV",25151,50,38,25,207,202
+152,"RCA 32"" Stereo TV","F32645 32"" Stereo TV",25152,600,437,25,207,213
+153,RCA Indoor TV Antenna,ANT120 Indoor TV Antenna,25153,15,11,25,207,213
+154,RCA Power TV Antenna,ANT200 Power TV Antenna,25154,50,37,25,207,213
+155,"RCA 27"" Stereo TV","F27615 27"" Stereo TV",25155,300,222,25,207,213
+156,"RCA 13"" TV/VCR","T13062 13"" TV/VCR",25156,250,180,25,207,213
+157,"RCA 13"" TV","XL-100 E13208GY 13"" TV",25157,130,94,25,207,213
+158,"RCA 4"" LCD Color TV","L4000BC 4"" LCD Color TV",25158,200,141,25,207,213
+159,"RCA 2"" Diagonal LCD Color TV","L2000BC 2"" Diagonal LCD Color TV",25159,100,71,25,207,213
+160,"Sharp 25"" TV/VCR Combo","25VT-K100 25"" TV/VCR Combo",25160,380,270,25,209,214
+161,"Sharp 25"" Stereo Color TV","25L-S180 25"" Stereo Color TV",25161,280,204,25,209,214
+162,"Sharp 13"" 2-Head TV/VCR","13VT-L150 13"" 2-Head TV/VCR",25162,230,171,25,209,214
+163,"Sharp 32"" Color TV","32L-S500 32"" Color TV",25163,650,461,25,209,214
+164,"Sony 32"" Trinitron Television","KV-32S65 32"" Trinitron Television",25164,800,591,25,209,215
+165,"Sony 35"" Trinitron Television","KV35S40 35"" Trinitron Television",25165,999,725,25,209,215
+166,Panasonic PalmTheater Portable DVD,DVD-L50 PalmTheater Portable DVD,26166,1000,734,26,206,210
+167,Panasonic 4-Head Hi-Fi VCR,PV-9450 4-Head Hi-Fi VCR,26167,140,104,26,206,210
+168,Panasonic Home Theater Stereo VCR,PV-V4640 Home Theater Ready 4-Head VHS Hi-Fi Stereo VCR with Rapid Rewind/Fast Forward,26168,180,132,26,206,210
+169,Panasonic Multiformat DVD Player,DVD-RV31 Multiformat DVD Player with Integrated MP3 Decoder,26169,300,222,26,206,210
+170,Panasonic Hi-Fi Stereo VCR,PV9662 Hi-Fi Stereo VCR,26170,200,142,26,206,210
+171,"Panasonic 27"" TV/DVD Player Combo","CT-27DC50 27"" TV/DVD Player Combo",26171,600,432,26,206,210
+172,Sony DVD/CD Player,DVP-S560D DVD/CD Player,26172,400,281,26,206,215
+173,Sony DVD Player w/Remote,DVP-S330 DVD Player w/Remote,26173,350,253,26,206,215
+174,Sony DVD/CD/Video Player,DVP-S9000ES DVD/SACD/CD/Video CD Player,26174,1200,852,26,206,215
+175,Sony Transportable DVD Player,DVP-F5 Transportable DVD Player,26175,500,367,26,206,215
+176,Sony VCR,SLVM20HF VCR,26176,330,232,26,206,215
+177,Sharp DVD Player,DV-A1000 DVD Player,26177,900,656,26,207,214
+178,Sharp DVD/CD Player,DV650 DVD/CD Player,26178,400,296,26,207,214
+179,Sharp VCR,VCS100U VCR,26179,250,179,26,207,214
+180,Sharp VCR+,VCH998U 99 SQPB VCR+,26180,170,121,26,207,214
+181,Small Soldiers,Small Soldiers,31181,20,15,31,301,350
+182,The Mask of Zorro,The Mask of Zorro,31182,13,10,31,303,305
+183,Vanishing Point,Vanishing Point,31183,9,7,31,303,307
+184,Godzilla,Godzilla,31184,11,8,31,303,354
+185,Apollo 13,Apollo 13,31185,9,7,31,303,379
+186,Lethal Weapon 4,Lethal Weapon 4,31186,17,12,31,306,355
+187,Le Mans,Le Mans,31187,9,7,31,306,376
+188,The Scarlet Pimpernel,The Scarlet Pimpernel,31188,13,10,31,307,303
+189,The African Queen,The African Queen,31189,8,6,31,307,334
+190,Armageddon,Armageddon,31190,16,12,31,309,312
+191,The Avengers,The Avengers,31191,26,19,31,309,364
+192,Blade,Blade,31192,13,10,31,309,382
+193,Everest,Everest,31193,14,11,31,310,352
+194,Apocalypse Now,Apocalypse Now,31194,19,14,31,310,353
+195,Manhunter,Manhunter,31195,9,7,31,310,383
+196,Babe,Babe,32196,13,10,32,301,338
+197,Ferris Bueller's Day Off,Ferris Bueller's Day Off,32197,9,7,32,301,354
+198,The Princess Bride,The Princess Bride,32198,11,8,32,303,313
+199,The Object Of My Affection,The Object Of My Affection,32199,13,10,32,303,340
+200,The Full Monty,The Full Monty,32200,13,10,32,303,368
+201,The Wedding Singer,The Wedding Singer,32201,13,10,32,306,302
+202,My Cousin Vinny,My Cousin Vinny,32202,13,10,32,307,344
+203,You've Got Mail,You've Got Mail,32203,20,15,32,307,379
+204,Caddyshack,Caddyshack,32204,17,13,32,309,315
+205,As Good As It Gets,As Good As It Gets,32205,13,10,32,309,336
+206,The Truman Show,The Truman Show,32206,13,10,32,309,342
+207,Pretty Woman,Pretty Woman,32207,9,7,32,309,346
+208,Austin Powers,Austin Powers,32208,13,10,32,309,360
+209,Swingers,Swingers,32209,13,10,32,309,380
+210,Dr. Dolittle,Dr. Dolittle,32210,13,10,32,310,325
+211,Hamlet,Hamlet,33211,26,19,33,301,347
+212,City Of Angels,City Of Angels,33212,17,13,33,301,362
+213,Dangerous Beauty,Dangerous Beauty,33213,13,10,33,303,314
+214,Sense and Sensibility,Sense and Sensibility,33214,13,10,33,303,328
+215,Great Expectations,Great Expectations,33215,13,10,33,306,330
+216,L.A. Confidential,L.A. Confidential,33216,15,12,33,306,349
+217,Titanic,Titanic,33217,19,14,33,307,351
+218,The Horse Whisperer,The Horse Whisperer,33218,17,13,33,307,370
+219,Schindler's List,Schindler's List,33219,15,11,33,309,352
+220,Hope Floats,Hope Floats,33220,12,9,33,309,373
+221,Gone With the Wind,Gone With the Wind,33221,21,15,33,310,318
+222,Pulp Fiction,Pulp Fiction,33222,13,10,33,310,345
+223,Wall Street,Wall Street,33223,9,7,33,310,357
+224,The Hustler,The Hustler,33224,17,13,33,310,365
+225,Good Will Hunting,Good Will Hunting,33225,20,15,33,310,371
+226,Psycho,Psycho,34226,12,9,34,301,304
+227,Scream,Scream,34227,13,10,34,301,324
+228,The Lost Boys,The Lost Boys,34228,9,7,34,301,339
+229,Dracula,Dracula,34229,13,10,34,303,308
+230,Scream 2,Scream 2,34230,13,10,34,303,320
+231,The Omen,The Omen,34231,9,7,34,303,331
+232,The Picture of Dorian Gray,The Picture of Dorian Gray,34232,17,12,34,303,335
+233,The Shining,The Shining,34233,17,12,34,303,336
+234,The Exorcist,The Exorcist,34234,17,13,34,306,327
+235,I Know What You Did Last Summer,I Know What You Did Last Summer,34235,13,10,34,306,341
+236,Christine,Christine,34236,9,7,34,306,348
+237,Nightmare on Elm Street,Nightmare on Elm Street,34237,13,10,34,307,332
+238,Frankenstein,Frankenstein,34238,12,8,34,310,311
+239,Rosemary's Baby,Rosemary's Baby,34239,13,10,34,310,356
+240,Interview With the Vampire,Interview With the Vampire,34240,13,10,34,310,378
+241,The Rugrats Movie,The Rugrats Movie,35241,23,17,35,301,317
+242,A Bug's Life,A Bug's Life,35242,18,14,35,304,319
+243,Mulan,Mulan,35243,17,13,35,304,325
+244,Charlotte's Web,Charlotte's Web,35244,13,10,35,304,333
+245,The Little Mermaid,The Little Mermaid,35245,21,16,35,304,343
+246,The Lion King,The Lion King,35246,17,12,35,304,354
+247,Lady and the Tramp,Lady and the Tramp,35247,19,14,35,304,366
+248,The Jungle Book,The Jungle Book,35248,13,10,35,304,374
+249,Alice in Wonderland,Alice in Wonderland,35249,17,12,35,304,375
+250,Barney,Barney,35250,13,10,35,305,306
+251,Blue's Clues,Blue's Clues,35251,9,7,35,305,310
+252,The Parent Trap,The Parent Trap,35252,17,12,35,305,322
+253,The Muppet Movie,The Muppet Movie,35253,13,10,35,305,326
+254,The Year Without a Santa Claus,The Year Without a Santa Claus,35254,11,9,35,305,358
+255,Sesame Street,Sesame Street,35255,9,7,35,305,361
+256,AAA Travel Video Series,AAA Travel Video Series,36256,17,13,36,302,301
+257,The Secrets of Happiness,The Secrets of Happiness,36257,26,19,36,302,316
+258,Mysteries of the Bible,Mysteries of the Bible,36258,51,37,36,302,321
+259,Exploring Antarctica,Exploring Antarctica,36259,26,19,36,302,323
+260,Learn! Microsoft Office 2000,Learn! Microsoft Office 2000,36260,26,19,36,302,359
+261,Classic Rock Guitar,Classic Rock Guitar,36261,11,8,36,302,367
+262,How to Play Piano 1,How to Play Piano 1,36262,34,26,36,302,367
+263,Jesus of Nazareth,Jesus of Nazareth,36263,43,30,36,302,369
+264,9 Steps to Financial Freedom,9 Steps to Financial Freedom,36264,17,13,36,302,377
+265,Step Into Ballet,Step Into Ballet,36265,17,13,36,302,381
+266,Let's Play Soccer,Let's Play Soccer,36266,13,10,36,308,329
+267,Golf My Way Collection,Golf My Way Collection,36267,26,19,36,308,337
+268,Tae-Bo Workout,Tae-Bo Workout,36268,35,26,36,311,309
+269,Massage for Health,Massage for Health,36269,13,10,36,311,363
+270,Living Yoga,Living Yoga,36270,13,10,36,311,372
+271,Sixteen Stone,Sixteen Stone,41271,14,13,41,401,419
+272,Throwing Copper,Throwing Copper,41272,14,14,41,401,446
+273,Tails,Tails,41273,15,14,41,401,447
+274,Seal (94),Seal (94),41274,14,13,41,401,468
+275,The Infinite Sadness,The Infinite Sadness,41275,19,16,41,401,471
+276,Jagged Little Pill,Jagged Little Pill,41276,14,13,41,402,458
+277,Morning Glory,Morning Glory,41277,15,14,41,402,459
+278,And Out Come Wolves,And Out Come Wolves,41278,8,7,41,402,463
+279,One Hot Minute,One Hot Minute,41279,15,14,41,402,465
+280,Alice In Chains,Alice In Chains,41280,10,10,41,404,406
+281,Insomniac,Insomniac,41281,15,13,41,404,438
+282,Tigerlily,Tigerlily,41282,10,9,41,404,455
+283,A Boy Named Goo,A Boy Named Goo,41283,9,8,41,405,437
+284,Pres Of The Unites States,Pres Of The Unites States,41284,14,13,41,405,462
+285,Relish,Relish,41285,14,13,41,406,460
+286,Strong Enough,Strong Enough,42286,14,14,42,401,415
+287,Gone,Gone,42287,15,14,42,401,429
+288,Games Rednecks Play,Games Rednecks Play,42288,15,13,42,401,433
+289,Strait Out Of The Box,Strait Out Of The Box,42289,48,38,42,401,435
+290,I Think About You,I Think About You,42290,10,10,42,402,423
+291,Fresh Horses,Fresh Horses,42291,15,13,42,402,434
+292,Now That I'Ve Found You,Now That I'Ve Found You,42292,14,14,42,404,407
+293,All I Want,All I Want,42293,10,9,42,404,453
+294,Tool Box,Tool Box,42294,14,14,42,405,402
+295,It Matters To Me,It Matters To Me,42295,10,10,42,405,432
+296,Starting Over,Starting Over,42296,13,13,42,405,452
+297,Bryan White,Bryan White,42297,14,13,42,405,487
+298,Time Marches On,Time Marches On,42298,10,9,42,406,445
+299,The Woman In Me,The Woman In Me,42299,13,11,42,406,481
+300,Souvenirs,Souvenirs,42300,15,13,42,406,483
+301,Schubert Volume 1,Schubert Volume 1,43301,10,9,43,401,421
+302,Running With Scissors,Running With Scissors,43302,13,10,43,401,485
+303,Best of Disney Volume 2,Best of Disney Volume 2,43303,14,14,43,402,426
+304,Exotic Sound Effects,Exotic Sound Effects,43304,27,22,43,402,473
+305,The Opera Album,The Opera Album,43305,16,12,43,403,436
+306,The Memory Of Trees,The Memory Of Trees,43306,16,14,43,404,430
+307,I Love To Polka,I Love To Polka,43307,13,10,43,404,443
+308,The Four Seasons,The Four Seasons,43308,15,12,43,405,408
+309,Doo Wop Box,Doo Wop Box,43309,59,47,43,405,428
+310,Pet Music,Pet Music,43310,21,17,43,405,440
+311,Sleepytime Songs,Sleepytime Songs,43311,15,13,43,406,411
+312,Revenge,Revenge,43312,10,8,43,406,414
+313,Beethoven for Babies,Beethoven for Babies,43313,9,7,43,406,448
+314,The Gospel Box,The Gospel Box,43314,35,27,43,406,482
+315,Take My Hand,Take My Hand,43315,9,9,43,406,490
+316,New Beginning,New Beginning,44316,10,10,44,401,480
+317,Bridge,Bridge,44317,15,14,44,403,404
+318,Home,Home,44318,10,10,44,403,425
+319,Don Henley's Greatest Hits,Don Henley's Greatest Hits,44319,15,14,44,403,427
+320,History Book One,History Book One,44320,31,25,44,403,456
+321,Whaler,Whaler,44321,15,13,44,403,472
+322,Nobody Else,Nobody Else,44322,10,10,44,403,476
+323,Cracked Rearview,Cracked Rearview,44323,15,13,44,404,439
+324,Life,Life,44324,15,14,44,404,470
+325,Waiting to Exhale: The Soundtrack,Waiting to Exhale: The Soundtrack,44325,15,13,44,404,484
+326,The Beatles Anthology,The Beatles Anthology,44326,16,14,44,405,413
+327,Daydream,Daydream,44327,13,12,44,405,450
+328,Something To Remember,Something To Remember,44328,15,13,44,406,449
+329,Another Night,Another Night,44329,14,13,44,406,464
+330,Crazy Sexy Cool,Crazy Sexy Cool,44330,15,13,44,406,479
+331,Ballbreaker,Ballbreaker,45331,10,10,45,401,403
+332,Lucy,Lucy,45332,16,15,45,401,420
+333,Your Little Secret,Your Little Secret,45333,10,10,45,401,454
+334,Ghost Of Tom Joad,Ghost Of Tom Joad,45334,10,10,45,401,474
+335,Stripped,Stripped,45335,15,13,45,403,466
+336,Road Tested,Road Tested,45336,16,15,45,404,417
+337,Collective Soul,Collective Soul,45337,15,13,45,404,422
+338,Ozzmosis,Ozzmosis,45338,15,14,45,404,461
+339,Supernatural,Supernatural,45339,13,12,45,404,467
+340,Its A Mystery,Its A Mystery,45340,16,14,45,404,469
+341,Hell Freezes Over,Hell Freezes Over,45341,16,14,45,404,477
+342,Four,Four,45342,15,13,45,405,416
+343,Crash,Crash,45343,13,12,45,405,424
+344,Astro Creep,Astro Creep,45344,15,14,45,405,486
+345,Stunt,Stunt,45345,12,11,45,406,410
+346,Live,Live,46346,13,10,46,401,431
+347,Synkronized,Synkronized,46347,13,10,46,401,441
+348,My Love Is Your Love,My Love Is Your Love,46348,13,10,46,401,488
+349,Big Willie Style,Big Willie Style,46349,15,12,46,402,489
+350,Al Green's Greatest Hits,Al Green's Greatest Hits,46350,13,11,46,403,405
+351,Barry White's All-Time Greatest Hits,Barry White's All-Time Greatest Hits,46351,13,10,46,403,412
+352,Soul Of A Woman,Soul Of A Woman,46352,13,10,46,403,444
+353,Embrya,Embrya,46353,13,10,46,404,451
+354,The Velvet Rope,The Velvet Rope,46354,15,12,46,405,442
+355,The Boy Is Mine,The Boy Is Mine,46355,13,10,46,405,457
+356,Original Musiquarium,Original Musiquarium,46356,27,22,46,405,475
+357,Simply The Best,Simply The Best,46357,18,14,46,405,478
+358,98 Degrees & Rising,98 Degrees & Rising,46358,13,11,46,406,401
+359,Aretha Franklin's 30 Greatest Hits,Aretha Franklin's 30 Greatest Hits,46359,23,18,46,406,409
+360,Never Say Never,Never Say Never,46360,15,12,46,406,418
